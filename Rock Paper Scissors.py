@@ -1,3 +1,6 @@
+# I'll delete the other repos and use treadstone3 since a file seems to have gotten corrupt in the 01 & 02.
+# Add you comments below when you get this.
+
 import random
 
 rock = '''
